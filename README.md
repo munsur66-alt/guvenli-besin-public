@@ -27,6 +27,14 @@ Bu açık dokümantasyon deposu uygulamanın tanıtımı, veri formatı, hata bi
 - Takvim ve sessiz bildirim hatırlatmaları
 - Aydınlık/karanlık tema
 
+## APK İndir
+
+Uygulamayı Android telefonda denemek için APK dosyasını indirebilirsiniz:
+
+[GuvenliBesin.apk](downloads/GuvenliBesin.apk)
+
+Not: APK paylaşımı, uygulama kaynak kodunun açık kaynak olarak paylaşıldığı anlamına gelmez. Kaynak kod ve yayınlama süreçleri kapalı/private tutulur.
+
 ## Uyarı
 
 Bu uygulama tıbbi tavsiye yerine geçmez. Ürün içerikleri ve üretim koşulları değişebileceği için kullanıcılar ürün etiketlerini her alışverişte kontrol etmelidir.
